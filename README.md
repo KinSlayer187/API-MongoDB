@@ -22,26 +22,38 @@ Acces http://localhost:3000
 
 3 - Routes
 -GET http://localhost:3000/person
+
+
 Test Route
 
 
 -POST http://localhost:3000/person
+
+
 Create person
 
 
 -GET http://localhost:3000/persons
+
+
 Pull people from persons
 
 
 -GET http://localhost:3000
+
+
 Add person to Routes
 
 
 -Patch http://localhost:3000
+
+
 Alter the person
 
 
 -DEL http://localhost:3000
+
+
 Delete selected person
 
 
